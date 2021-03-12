@@ -1,0 +1,5 @@
+11:32:47.908 [main] DEBUG io.netty.util.internal.PlatformDependent0 - java.nio.DirectByteBuffer.<init>(long, int): unavailable
+11:32:47.910 [main] DEBUG io.netty.util.internal.PlatformDependent - sun.misc.Unsafe: available
+11:32:47.911 [main] DEBUG io.netty.util.internal.PlatformDependent - maxDirectMemory: 2099249152 bytes (maybe)
+11:32:47.911 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.tmpdir: C:\Users\Susmith\AppData\Local\Temp (java.io.tmpdir)
+11:32:47.912 [main] DEBUG io.netty.util.internal.PlatformDependent - -Dio.netty.bitMode: 64 (sun.arch.data.model)

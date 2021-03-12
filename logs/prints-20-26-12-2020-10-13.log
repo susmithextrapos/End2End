@@ -1,0 +1,5 @@
+12:26:10.368 [AsyncHttpClient-3-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxCapacityPerThread: 4096
+12:26:10.371 [AsyncHttpClient-3-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.maxSharedCapacityFactor: 2
+12:26:10.371 [AsyncHttpClient-3-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.linkCapacity: 16
+12:26:10.371 [AsyncHttpClient-3-2] DEBUG io.netty.util.Recycler - -Dio.netty.recycler.ratio: 8
+12:26:20.034 [TestNG-tests-4] INFO  resources.Base - driver has been initialized in homepagenavigation class

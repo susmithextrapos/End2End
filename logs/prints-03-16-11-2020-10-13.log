@@ -1,0 +1,6 @@
+10:13:08.060 [TestNG-tests-3] INFO  resources.Base - driver has been initialized in validatetitle class
+10:13:08.170 [TestNG-tests-4] INFO  resources.Base - driver has been initialized in homepagenavigation class
+10:13:08.283 [TestNG-tests-1] INFO  resources.Base - driver has been initialized in validateHome class
+10:13:27.134 [TestNG-tests-3] INFO  resources.Base - successfully validated
+10:13:27.216 [TestNG-tests-1] INFO  resources.Base - home link is validated
+11:16:03.987 [TestNG-tests-3] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework

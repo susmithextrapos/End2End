@@ -1,0 +1,4 @@
+17:17:52.968 [TestNG-tests-4] DEBUG io.netty.channel.nio.NioEventLoop - -Dio.netty.selectorAutoRebuildThreshold: 512
+17:17:52.984 [TestNG-tests-4] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@1040b7f9
+17:17:52.986 [TestNG-tests-4] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@4eb5cbfd
+17:17:52.987 [TestNG-tests-4] TRACE io.netty.channel.nio.NioEventLoop - instrumented a special java.util.Set into: sun.nio.ch.WindowsSelectorImpl@168a1565

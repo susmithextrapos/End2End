@@ -1,0 +1,5 @@
+13:22:59.923 [TestNG-tests-4] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.targetRecords: 4
+13:22:59.938 [TestNG-tests-4] DEBUG io.netty.util.ResourceLeakDetectorFactory - Loaded default ResourceLeakDetector: io.netty.util.ResourceLeakDetector@f6d5df
+13:22:59.976 [TestNG-tests-4] DEBUG io.netty.util.internal.PlatformDependent - Platform: Windows
+13:22:59.987 [TestNG-tests-4] DEBUG io.netty.util.internal.PlatformDependent0 - -Dio.netty.noUnsafe: false
+13:22:59.988 [TestNG-tests-4] DEBUG io.netty.util.internal.PlatformDependent0 - Java version: 15

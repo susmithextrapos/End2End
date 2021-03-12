@@ -1,0 +1,6 @@
+14:28:49.106 [main] INFO  resources.Base - home link is validated
+14:28:52.563 [main] INFO  resources.Base - driver has been initialized in validatetitle class
+14:28:57.810 [main] INFO  resources.Base - successfully validated
+14:29:01.179 [main] INFO  resources.Base - driver has been initialized in homepagenavigation class
+14:31:12.945 [TestNG-tests-3] DEBUG io.netty.util.internal.logging.InternalLoggerFactory - Using Log4J2 as the default logging framework
+14:31:12.958 [TestNG-tests-3] DEBUG io.netty.util.ResourceLeakDetector - -Dio.netty.leakDetection.level: simple

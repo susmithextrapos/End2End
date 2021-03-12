@@ -1,0 +1,4 @@
+18:40:16.691 [TestNG-tests-1] INFO  resources.Base - driver has been initialized in validateHome class
+18:40:16.691 [TestNG-tests-4] INFO  resources.Base - driver has been initialized in homepagenavigation class
+18:40:16.691 [TestNG-tests-3] INFO  resources.Base - driver has been initialized in validatetitle class
+18:40:23.416 [TestNG-tests-1] INFO  resources.Base - home link is validated
